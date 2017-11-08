@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.trusourcelabs.NoMAD</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>ADDomain</key>
+								<string>proofadv.net</string>
+								<key>DontShowWelcome</key>
+								<true/>
+								<key>GetHelpOptions</key>
+								<string>https://support.proof-advertising.com</string>
+								<key>GetHelpType</key>
+								<string>URL</string>
+								<key>KerberosRealm</key>
+								<string>PROOFADV.NET</string>
+								<key>LocalPasswordSync</key>
+								<true/>
+								<key>PasswordPolicy</key>
+								<dict>
+									<key>minLength</key>
+									<string>8</string>
+									<key>minLowerCase</key>
+									<string>1</string>
+									<key>minNumber</key>
+									<string>1</string>
+									<key>minSymbol</key>
+									<string>1</string>
+									<key>minUpperCase</key>
+									<string>1</string>
+								</dict>
+								<key>PersistExpiration</key>
+								<true/>
+								<key>RenewTickets</key>
+								<integer>1</integer>
+								<key>SecondsToRenew</key>
+								<integer>7200</integer>
+								<key>SelfServicePath</key>
+								<string>/Applications/Self Service.app</string>
+								<key>UseKeychain</key>
+								<true/>
+								<key>UserAging</key>
+								<true/>
+								<key>Verbose</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.949e6956-6d33-43f2-827b-d1e2212fcdf2.alacarte.customsettings.edd2a142-4fc2-4d1d-bae2-2ba8e5af7c5c</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>edd2a142-4fc2-4d1d-bae2-2ba8e5af7c5c</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.trusourcelabs.NoMAD
+
+Git revision: a0e04c60fc</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.trusourcelabs.NoMAD</string>
+	<key>PayloadIdentifier</key>
+	<string>com.trusourcelabs.NoMAD.plist</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>949e6956-6d33-43f2-827b-d1e2212fcdf2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

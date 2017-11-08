@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>menu.nomad.shares</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>Shares</key>
+								<array>
+									<dict>
+										<key>AutoMount</key>
+										<true/>
+										<key>ConnectedOnly</key>
+										<true/>
+										<key>Groups</key>
+										<array/>
+										<key>LocalMount</key>
+										<string>Proof Share</string>
+										<key>Name</key>
+										<string>Proof Share</string>
+										<key>Options</key>
+										<array/>
+										<key>URL</key>
+										<string>smb://proofshare.proofadv.net/ELC/Shared</string>
+									</dict>
+									<dict>
+										<key>AutoMount</key>
+										<true/>
+										<key>ConnectedOnly</key>
+										<true/>
+										<key>Groups</key>
+										<array/>
+										<key>LocalMount</key>
+										<string>Creative</string>
+										<key>Name</key>
+										<string>Creative</string>
+										<key>Options</key>
+										<array/>
+										<key>URL</key>
+										<string>smb://creative.proofadv.net/ELC/Shared</string>
+									</dict>
+								</array>
+								<key>Version</key>
+								<string>1</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.51a9fcac-28bd-4db1-b6e9-11aec0ac844a.alacarte.customsettings.33ea0ba6-a85e-404a-88f1-a8c9e1c998c9</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>33ea0ba6-a85e-404a-88f1-a8c9e1c998c9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+menu.nomad.shares
+
+Git revision: a0e04c60fc</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: menu.nomad.shares</string>
+	<key>PayloadIdentifier</key>
+	<string>menu.nomad.shares.plist</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>51a9fcac-28bd-4db1-b6e9-11aec0ac844a</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

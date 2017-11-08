@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.finder</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_data_timestamp</key>
+							<date>2017-08-30T19:25:05Z</date>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>FK_StandardViewSettings</key>
+								<dict>
+									<key>ExtendedListViewSettingsV2</key>
+									<dict>
+										<key>calculateAllSizes</key>
+										<false/>
+										<key>showIconPreview</key>
+										<false/>
+									</dict>
+									<key>ListViewSettings</key>
+									<dict>
+										<key>calculateAllSizes</key>
+										<false/>
+										<key>showIconPreview</key>
+										<false/>
+									</dict>
+									<key>SettingsType</key>
+									<string>FK_StandardViewSettings</string>
+								</dict>
+								<key>FXPreferredViewStyle</key>
+								<string>Nlsv</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.5896f0fd-8f1a-4b4b-b5f2-817adeb59fc5.alacarte.customsettings.01bc2d43-bdee-4855-aa32-d9532b4c6980</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>01bc2d43-bdee-4855-aa32-d9532b4c6980</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.finder
+
+Git revision: a0e04c60fc</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.apple.finder</string>
+	<key>PayloadIdentifier</key>
+	<string>FinderListView</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5896f0fd-8f1a-4b4b-b5f2-817adeb59fc5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
