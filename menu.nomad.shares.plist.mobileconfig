@@ -24,13 +24,13 @@
 										<key>Groups</key>
 										<array/>
 										<key>LocalMount</key>
-										<string>Proof Share</string>
+										<string></string>
 										<key>Name</key>
 										<string>Proof Share</string>
 										<key>Options</key>
 										<array/>
 										<key>URL</key>
-										<string>smb://proofshare.proofadv.net/ELC/Shared</string>
+										<string>smb://proofshare.proofadv.net/ELC</string>
 									</dict>
 									<dict>
 										<key>AutoMount</key>
@@ -40,13 +40,13 @@
 										<key>Groups</key>
 										<array/>
 										<key>LocalMount</key>
-										<string>Creative</string>
+										<string></string>
 										<key>Name</key>
 										<string>Creative</string>
 										<key>Options</key>
 										<array/>
 										<key>URL</key>
-										<string>smb://creative.proofadv.net/ELC/Shared</string>
+										<string>smb://creative.proofadv.net/ELC</string>
 									</dict>
 								</array>
 								<key>Version</key>
