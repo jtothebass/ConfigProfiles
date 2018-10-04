@@ -15,6 +15,7 @@
 							<key>mcx_preference_settings</key>
 							<dict>
 								<key>ADDomain</key>
+								<string>contoso.corp</string>
 								<key>DontShowWelcome</key>
 								<true/>
 								<key>GetHelpOptions</key>
@@ -22,6 +23,7 @@
 								<key>GetHelpType</key>
 								<string>URL</string>
 								<key>KerberosRealm</key>
+								<string>CONTOSO.CORP</string>
 								<key>LocalPasswordSync</key>
 								<true/>
 								<key>PasswordPolicy</key>

@@ -30,7 +30,6 @@
 										<string>Mount Point Name</string>
 >>>>>>> 0c030fd4d3e6f8a538acedbeb8ffcf773ce51d75
 										<key>Name</key>
-										<string>Proof Share</string>
 										<string>Share Name</string>
 										<key>Options</key>
 										<array/>
@@ -55,7 +54,6 @@
 										<string>Mount Name</string>
 >>>>>>> 0c030fd4d3e6f8a538acedbeb8ffcf773ce51d75
 										<key>Name</key>
-										<string>Creative</string>
 										<string>Share Name</string>
 										<key>Options</key>
 										<array/>
