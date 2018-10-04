@@ -24,13 +24,22 @@
 										<key>Groups</key>
 										<array/>
 										<key>LocalMount</key>
+<<<<<<< HEAD
 										<string></string>
+=======
+										<string>Mount Point Name</string>
+>>>>>>> 0c030fd4d3e6f8a538acedbeb8ffcf773ce51d75
 										<key>Name</key>
 										<string>Proof Share</string>
+										<string>Share Name</string>
 										<key>Options</key>
 										<array/>
 										<key>URL</key>
+<<<<<<< HEAD
 										<string>smb://proofshare.proofadv.net/ELC</string>
+=======
+										<string>URL</string>
+>>>>>>> 0c030fd4d3e6f8a538acedbeb8ffcf773ce51d75
 									</dict>
 									<dict>
 										<key>AutoMount</key>
@@ -40,13 +49,22 @@
 										<key>Groups</key>
 										<array/>
 										<key>LocalMount</key>
+<<<<<<< HEAD
 										<string></string>
+=======
+										<string>Mount Name</string>
+>>>>>>> 0c030fd4d3e6f8a538acedbeb8ffcf773ce51d75
 										<key>Name</key>
 										<string>Creative</string>
+										<string>Share Name</string>
 										<key>Options</key>
 										<array/>
 										<key>URL</key>
+<<<<<<< HEAD
 										<string>smb://creative.proofadv.net/ELC</string>
+=======
+										<string>smb://path.to.your/Share</string>
+>>>>>>> 0c030fd4d3e6f8a538acedbeb8ffcf773ce51d75
 									</dict>
 								</array>
 								<key>Version</key>
