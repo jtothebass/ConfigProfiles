@@ -6,17 +6,17 @@
 	<array>
 		<dict>
 			<key>PayloadDescription</key>
-			<string>TCC Whitelist for Bomgar</string>
+			<string>TCC Whitelist for mac helper</string>
 			<key>PayloadDisplayName</key>
-			<string>bomgar-tccwhitelist</string>
+			<string>BomgarMacHelperTCCWhitelist</string>
 			<key>PayloadIdentifier</key>
-			<string>com.prf.bomgartccprofile.082A9982-C02D-11E8-B1DB-ACDE48001122</string>
+			<string>com.prf.bomgarmachelpertcc.7A153B4A-DEB8-11E8-AED5-ACDE48001122</string>
 			<key>PayloadOrganization</key>
-			<string>Proof Advertising LLC</string>
+			<string>Proof Advertising</string>
 			<key>PayloadType</key>
 			<string>com.apple.TCC.configuration-profile-policy</string>
 			<key>PayloadUUID</key>
-			<string>082A9982-C02D-11E8-B1DB-ACDE48001122</string>
+			<string>7A153B4A-DEB8-11E8-AED5-ACDE48001122</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Services</key>
@@ -27,32 +27,32 @@
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>identifier "com.bomgar.bomgar-rep-proofadvertising" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = B65TM49E24</string>
+						<string>identifier "com.apple.bash" and anchor apple</string>
 						<key>Comment</key>
-						<string>Allow Accessibility control for Bomgar Representative Console - proofadv.bomgarcloud.com</string>
+						<string>Allow Accessibility control for mac_service_helper</string>
 						<key>Identifier</key>
-						<string>com.bomgar.bomgar-rep-proofadvertising</string>
+						<string>/Users/Shared/bomgar-scc-20180131-170709.app/Contents/Resources/mac_service_helper.sh</string>
 						<key>IdentifierType</key>
-						<string>bundleID</string>
+						<string>path</string>
 					</dict>
 				</array>
 			</dict>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>TCC Whitelist for Bomgar</string>
+	<string>TCC Whitelist for mac helper</string>
 	<key>PayloadDisplayName</key>
-	<string>bomgar-tccwhitelist</string>
+	<string>BomgarMacHelperTCCWhitelist</string>
 	<key>PayloadIdentifier</key>
-	<string>com.prf.bomgartccprofile</string>
+	<string>com.prf.bomgarmachelpertcc</string>
 	<key>PayloadOrganization</key>
-	<string>Proof Advertising LLC</string>
+	<string>Proof Advertising</string>
 	<key>PayloadScope</key>
 	<string>system</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>083537D7-C02D-11E8-8C91-ACDE48001122</string>
+	<string>7A21BC80-DEB8-11E8-96FE-ACDE48001122</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

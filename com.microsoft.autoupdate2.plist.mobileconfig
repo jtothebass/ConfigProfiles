@@ -14,8 +14,14 @@
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
+								<key>ChannelName</key>
+								<string>Production</string>
 								<key>HowToCheck</key>
 								<string>Manual</string>
+								<key>EnableCheckForUpdatesButton</key>
+								<false/>
+								<key>StartDaemonOnAppLaunch</key>
+								<true/>
 							</dict>
 						</dict>
 					</array>

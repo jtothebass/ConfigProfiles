@@ -6,32 +6,32 @@
 	<array>
 		<dict>
 			<key>PayloadDescription</key>
-			<string>TCC Whitelist for Bomgar</string>
+			<string>TCC Whitelist for Code42 CrashPlan</string>
 			<key>PayloadDisplayName</key>
-			<string>bomgar-tccwhitelist</string>
+			<string>CrashPlan TCC Whitelist</string>
 			<key>PayloadIdentifier</key>
-			<string>com.prf.bomgartccprofile.082A9982-C02D-11E8-B1DB-ACDE48001122</string>
+			<string>com.prf.crashplantccwhitelist.742DD9AE-D6E7-11E8-B387-ACDE48001122</string>
 			<key>PayloadOrganization</key>
-			<string>Proof Advertising LLC</string>
+			<string>Proof Advertising</string>
 			<key>PayloadType</key>
 			<string>com.apple.TCC.configuration-profile-policy</string>
 			<key>PayloadUUID</key>
-			<string>082A9982-C02D-11E8-B1DB-ACDE48001122</string>
+			<string>742DD9AE-D6E7-11E8-B387-ACDE48001122</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Services</key>
 			<dict>
-				<key>Accessibility</key>
+				<key>SystemPolicyAllFiles</key>
 				<array>
 					<dict>
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>identifier "com.bomgar.bomgar-rep-proofadvertising" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = B65TM49E24</string>
+						<string>identifier "com.backup42.desktop" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "9YV9435DHD"</string>
 						<key>Comment</key>
-						<string>Allow Accessibility control for Bomgar Representative Console - proofadv.bomgarcloud.com</string>
+						<string>Allow SystemPolicyAllFiles control for CrashPlan</string>
 						<key>Identifier</key>
-						<string>com.bomgar.bomgar-rep-proofadvertising</string>
+						<string>com.backup42.desktop</string>
 						<key>IdentifierType</key>
 						<string>bundleID</string>
 					</dict>
@@ -40,19 +40,19 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>TCC Whitelist for Bomgar</string>
+	<string>TCC Whitelist for Code42 CrashPlan</string>
 	<key>PayloadDisplayName</key>
-	<string>bomgar-tccwhitelist</string>
+	<string>CrashPlan TCC Whitelist</string>
 	<key>PayloadIdentifier</key>
-	<string>com.prf.bomgartccprofile</string>
+	<string>com.prf.crashplantccwhitelist</string>
 	<key>PayloadOrganization</key>
-	<string>Proof Advertising LLC</string>
+	<string>Proof Advertising</string>
 	<key>PayloadScope</key>
 	<string>system</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>083537D7-C02D-11E8-8C91-ACDE48001122</string>
+	<string>742F782B-D6E7-11E8-80D3-ACDE48001122</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
